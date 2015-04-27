@@ -1,0 +1,6 @@
+5
+Jan Kowalski 147824 45 0
+Marek Nowak 126824 23 1000
+Maciej Kowalski 126712 22 2000
+Robert Koza 172382 37 0
+Mariusz Kajan 247943 21 3000
