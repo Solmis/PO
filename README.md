@@ -1,2 +1,2 @@
 # PO
-Projects coded for Objective Programming (in Java).
+Projects coded for Object-oriented Programming (in Java).
